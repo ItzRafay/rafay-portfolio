@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black !important;
+}
+
+.main{
+    width: 100%;
+    background-image: url("https://w7.pngwing.com/pngs/126/461/png-transparent-textured-textures-black-texture-background-texture-black-texture-poster-banner-textured.png");
+    height: 400px;
+}
+h1{
+    font-style: italic;
+    color: white !important;
+    font-size: larger;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    top: 150px;
+}
+h3{
+    display: flex;
+    align-items: center;
+    color: white !important;
+    font-size: larger;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    top: 160px;
+
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    text-decoration: none;
+    padding-top: 170px;
+  
+    
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 50px !important;
+    width: 150px;
+    height: 60px;
+}
+
+.new{
+    color: white !important;
+}
+
+
+
+
+
+
+
+.card-body{
+    word-spacing: 6px;
+    height: 250px;
+
+}
+.card-title{
+    font-style: italic;
+    text-align: center;
+}
+
+.edu{
+    color: white !important;
+    display: flex;
+    position: relative;
+    top: 0;
+    left: 290px;
+
+    
+    justify-content: center;
+}
+.table{
+    margin-top: 300px;
+    margin-right: 220px;
+    position: relative;
+    right: 230px;
+    width: 100% !important;
+}
+
+.pro{
+    text-decoration: none !important;
+    font-size: large;
+    font-weight: bold;
+}
+a{
+    color: white !important;
+}
+
+.yep{
+    color: blue !important;
+    background-color: yellow;
+    width: 100%;
+}
